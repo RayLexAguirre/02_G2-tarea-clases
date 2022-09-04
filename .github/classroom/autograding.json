@@ -1,0 +1,103 @@
+{
+  "tests": [
+    {
+      "name": "calculator.constructor()",
+      "setup": "npm install",
+      "run": "npm run test  calculator.test.js",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "calculator.add()",
+      "setup": "",
+      "run": "npm run test  calculator.add.test.js",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "calculator.multiply()",
+      "setup": "",
+      "run": "npm run test  calculator.multiply.test.js",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "calculator.power()",
+      "setup": "",
+      "run": "npm run test  calculator.power.test.js",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "calculator.reset()",
+      "setup": "",
+      "run": "npm run test  calculator.reset.test.js",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "range.constructor()",
+      "setup": "",
+      "run": "npm run test  range.test.js",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "range.getAllNumbers()",
+      "setup": "",
+      "run": "npm run test  range.getAllNumbers.test.js",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "range.getAllNumbersInverted()",
+      "setup": "",
+      "run": "npm run test  range.getAllNumbersInverted.test.js",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "range.getAllEven()",
+      "setup": "",
+      "run": "npm run test  range.getAllEven.test.js",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "setup": "",
+      "run": "npm run test  range.getSum.test.js",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    }
+  ]
+}
